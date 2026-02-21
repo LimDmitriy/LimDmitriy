@@ -1,10 +1,6 @@
 <h1 align="center">Привет, я Дмитрий 👋</h1>
 <h3 align="center">Python Backend Developer 🐍</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Backend+Developer;Python+Django+PostgreSQL;Clean+Code+Enthusiast;Always+Learning" />
-</p>
-
 ---
 
 ### 🚀 Обо мне
@@ -60,5 +56,4 @@
 
 ---
 
-⭐ Спасибо, что заглянул в профиль!
 
